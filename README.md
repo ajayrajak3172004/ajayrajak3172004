@@ -89,11 +89,21 @@
 
 ## 📌 Featured Projects
 
-✨ Real-Time Chat Application
-✨ Movie Ticket Booking Website
-✨ IPL Winner Predictor
-✨ Song Recommender System
-✨ Self-Driving Car Simulation
+✨ <a href="https://mern-chat-app-alpha-liard.vercel.app/login" target="blank">
+       Real-Time Chat Application
+    </a>
+✨ <a href="https://bookmyflick-rho.vercel.app/" target="blank">
+     Movie Ticket Booking Website
+    </a>
+✨ <a href="https://github.com/ajayrajak3172004/IPL-Winner-Predictor" target="blank">
+    IPL Winner Predictor
+    </a>
+✨ <a href="https://github.com/ajayrajak3172004/Song-Recommender-System" target="blank">
+    Song Recommender System
+    </a> 
+✨ <a href="https://github.com/ajayrajak3172004/self-driving-car" target="blank">
+    Self-Driving Car Simulation
+  </a>  
 
 ---
 
