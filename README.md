@@ -1,4 +1,4 @@
-<img src="profilepic/Aj.jpg" width="140"  height="140" align="center" alt='profilepic' />
+<img align="center" src="profilepic/Aj.jpg" width="140"  height="140"  alt='profilepic' />
 <h1 align="center">Hi 👋, I'm Ajay Rajak</h1>
 
 <h3 align="center">
