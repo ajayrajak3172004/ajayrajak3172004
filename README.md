@@ -1,6 +1,6 @@
-<div>
-  <img align="center" src="profilepic/Aj.jpg" width="140"  height="140"  alt='profilepic' />
-</div>div>
+
+  
+
 <h1 align="center">Hi 👋, I'm Ajay Rajak</h1>
 
 <h3 align="center">
