@@ -1,3 +1,4 @@
+<img src="profilepic/Aj.jpg" />
 <h1 align="center">Hi 👋, I'm Ajay Rajak</h1>
 
 <h3 align="center">
