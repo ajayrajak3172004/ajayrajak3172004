@@ -95,12 +95,14 @@
 ✨ <a href="https://bookmyflick-rho.vercel.app/" target="blank">
      Movie Ticket Booking Website
     </a>
+
+✨ <a href="https://ai-spend-audit-fawn.vercel.app/" target="blank">
+   AuditAi
+    </a> 
 ✨ <a href="https://github.com/ajayrajak3172004/IPL-Winner-Predictor" target="blank">
     IPL Winner Predictor
     </a>
-✨ <a href="https://github.com/ajayrajak3172004/Song-Recommender-System" target="blank">
-    Song Recommender System
-    </a> 
+
 ✨ <a href="https://github.com/ajayrajak3172004/self-driving-car" target="blank">
     Self-Driving Car Simulation
   </a>  
