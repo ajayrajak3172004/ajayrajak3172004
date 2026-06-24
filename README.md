@@ -56,7 +56,7 @@
 ### 🌐 Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind," />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind" />
 <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="mysql" width="40" height="40"/>
 </p>
 
