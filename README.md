@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 Always exploring new technologies and improving **development skills through real-world projects**
+* 🔭 Exploring new **technologies and building real-world projects.**
 * 🌱 Learning **System Design, Machine Learning & Advanced Backend**
 * 💬 Ask me about **MERN Stack, Next.js, React, ML & Blender**
 * ⚡ Fun fact: **I love creating cinematic 3D scenes in Blender**
@@ -37,7 +37,7 @@
 
 <p align="left">
 <a href="https://github.com/ajayrajak3172004" target="blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/ajayrajak3172004" target="blank">
 </a>
 
 <a href="https://www.leetcode.com/a_j_a_y04" target="blank">
@@ -57,7 +57,7 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind," />
-  <img src="https://iconscout.com/free-3d-icon/free-mysql-3d-icon_7578013" alt="mongodb" width="40" height="40"/>
+<img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="mysql" width="40" height="40"/>
 </p>
 
 ### 💻 Programming Languages
