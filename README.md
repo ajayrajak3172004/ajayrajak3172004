@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 Currently working on **Real-Time Chat Application**
+* 🔭 Always exploring new technologies and improving **development skills through real-world projects**
 * 🌱 Learning **System Design, Machine Learning & Advanced Backend**
 * 💬 Ask me about **MERN Stack, Next.js, React, ML & Blender**
 * ⚡ Fun fact: **I love creating cinematic 3D scenes in Blender**
@@ -57,7 +57,7 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind," />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://iconscout.com/free-3d-icon/free-mysql-3d-icon_7578013" alt="mongodb" width="40" height="40"/>
 </p>
 
 ### 💻 Programming Languages
